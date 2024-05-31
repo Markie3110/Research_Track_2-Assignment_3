@@ -7,22 +7,21 @@ report summarising the process and results.
 
 Table of Contents
 ----------------------
-1. [Prerequisites](https://github.com/Markie3110/Research_Track_2-Assignment_2/tree/main#prerequisites)
-2. [Project Contents](https://github.com/Markie3110/Research_Track_2-Assignment_2/tree/main#project-contents)
-3. [How to Install](https://github.com/Markie3110/Research_Track_2-Assignment_2/tree/main#project-contents)
+1. [Project Contents](https://github.com/Markie3110/Research_Track_2-Assignment_3/tree/master?tab=readme-ov-file#project-contents)
+2. [How to Install](https://github.com/Markie3110/Research_Track_2-Assignment_3/tree/master?tab=readme-ov-file#how-to-install)
 <br>
 
 Project Contents
 ----------------------
 The repository consists of the following components:
 
-1. Experiment Folder
+1. Experiment Folder<br>
 Contains the python and bash scripts, along with the Python Robotics Simulator files, with which the experiments were performed.<br>
 
-2. Output_Files Folder
+2. Output_Files Folder<br>
 Contains the logged results from the experiments, as well as a Jupyter Notebook python script that was used in the post-experiment evaluation.<br>
 
-3. RT_Assignment3_Report.pdf
+3. RT_Assignment3_Report.pdf<br>
 The project report that explains key aspects of the tests.
 <br>
 
